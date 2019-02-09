@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # data
-Fifa-Copy.csv
+fifa-Copy.csv
